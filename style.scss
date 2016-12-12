@@ -1,0 +1,12 @@
+$maincolor : #f00;
+$fontcolor : #444;
+$contrastcolor : #fff;
+
+body, html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  color: $fontcolor;
+}
+
